@@ -1,3 +1,8 @@
+![Playwright](https://img.shields.io/badge/Playwright-E2E-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![CI/CD](https://img.shields.io/badge/CI-CD-orange)
+![Automation](https://img.shields.io/badge/QA-Automation-purple)
+
 # Playwright Course Project
 
 A comprehensive Playwright testing course with multiple modules covering different aspects of end-to-end testing, from basic concepts to advanced techniques. 
